@@ -15,7 +15,7 @@ You’ll also catch me in CTFs, on HackerOne, or grinding labs & certs to keep l
   <img src="https://tryhackme-badges.s3.amazonaws.com/INNOCENTx0.png" alt="TryHackMe" height="60">
 </a><br>
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools 
 
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
