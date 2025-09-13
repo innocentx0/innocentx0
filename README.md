@@ -10,7 +10,7 @@ You’ll also catch me in CTFs, on HackerOne, or grinding labs & certs to keep l
 
 <a href="https://www.hackthebox.eu/home/users/profile/415504">
   <img src="https://www.hackthebox.eu/badge/image/415504" alt="Innocentx0" height="60">
-</a>
+</a><br>
 <a href="https://tryhackme.com">
   <img src="https://tryhackme-badges.s3.amazonaws.com/INNOCENTx0.png" alt="TryHackMe" height="60">
 </a><br>
