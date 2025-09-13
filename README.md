@@ -7,7 +7,7 @@ I'm a hacker with a passion for breaking (and fixing) stuff.<br>
 I spend my time doing web app & infra pentesting, bug bounty hunting, and digging into weird vulnerabilities.<br>
 You’ll also catch me in CTFs, on HackerOne, or grinding labs & certs to keep leveling up.
 <br>I'm also the founder of [NetRunn3rs](https://app.hackthebox.com/teams/overview/6604) team on HackTheBox ( •̀ᴗ•́ )و ̑̑</p><br>
----
+
 <a href="https://www.hackthebox.eu/home/users/profile/415504">
   <img src="https://www.hackthebox.eu/badge/image/415504" alt="Innocentx0" height="60">
 </a>
