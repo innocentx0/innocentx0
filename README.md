@@ -39,6 +39,15 @@ You’ll also catch me in CTFs, on HackerOne, or grinding labs & certs to keep l
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00" alt="Nmap" height="28" />
+    <img src="https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logo=python&logoColor=FF6600" alt="Impacket" height="28" />
+    <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=bloodhound&logoColor=9900FF" alt="BloodHound" height="28" />
+    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00A4EF" alt="Windows" height="28" />
+    <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=0078D6" alt="PowerShell" height="28" />
+    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=00FFAA" alt="HackerOne" height="28" />
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00B2FF" alt="TryHackMe" height="28" />
+    <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=01FF70" alt="Hack The Box" height="28" />
+
   </div>
 </div>
 
