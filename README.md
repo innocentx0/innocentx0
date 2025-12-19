@@ -32,6 +32,7 @@ You’ll also catch me in CTFs, on HackerOne, or grinding labs & certs to keep l
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
       <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
